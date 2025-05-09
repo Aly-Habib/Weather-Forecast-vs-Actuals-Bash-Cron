@@ -18,6 +18,8 @@ fc_temp=$(cat $file | grep -m 3 '°.' | tail -n 1 | grep -Eo -e '-?[[:digit:]]..
 
 echo "The forecasted temperature for noon tomorrow for $city : $fc_temp C"
 
+rm $file
+
 # Use command substitution to store the current day, month, and year in corresponding shell variables:
 cur_year=$(TZ='Morocco/Casablanca' date +%Y)
 cur_month=$(TZ='Morocco/Casablanca' date +%m)
