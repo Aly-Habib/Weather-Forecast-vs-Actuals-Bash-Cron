@@ -53,4 +53,14 @@ Keeps the tooling minimal—perfect for learning:
 - cron for orchestration
 - simple tab file for storage
 
-![screenshot](/sc 1.png)
+<p align="center">
+  <img src="sc 1.png">
+</p>
+
+<p align="center">
+  <img src="sc 2.png">
+</p>
+
+<p align="center">
+  <img src="sc 3.png">
+</p>
