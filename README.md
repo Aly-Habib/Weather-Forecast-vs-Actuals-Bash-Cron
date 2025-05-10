@@ -52,3 +52,5 @@ Keeps the tooling minimal—perfect for learning:
 - pure Bash + coreutils
 - cron for orchestration
 - simple tab file for storage
+
+![screenshot](/sc 1.png)
